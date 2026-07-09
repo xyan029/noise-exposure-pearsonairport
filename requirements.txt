@@ -1,0 +1,7 @@
+geopandas
+rasterio
+pandas
+numpy
+matplotlib
+contextily
+shapely
